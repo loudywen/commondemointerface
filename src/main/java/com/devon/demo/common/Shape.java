@@ -16,5 +16,12 @@ public interface Shape {
      *
      * @return the string
      */
-    String name();
+    String getName();
+
+    /**
+     * Gets description.
+     *
+     * @return the description
+     */
+    String getDescription();
 }
