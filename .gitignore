@@ -80,7 +80,4 @@ local.properties
 
 /.idea/
 /target/
-/.idea/vcs.xml
 commondemointerface.iml
-pom.xml
-src/
